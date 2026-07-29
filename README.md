@@ -1,6 +1,6 @@
 # Teams Rooms Endpoint Connectivity Tester v3.0
 
-Tests whether **this PC** can reach the mandatory Microsoft Teams / Teams Rooms
+Tests whether **this PC** can reach the mandatory Microsoft Teams / Teams Panels / Teams Phone / Teams Display 
 endpoints - core Teams client sign-in, Microsoft Store (AppInstallManager),
 telemetry, the Teams Rooms Pro Management Portal (Azure IoT Hub, Web PubSub,
 agent) and Microsoft Intune - and produces an HTML report with recommended
